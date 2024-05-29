@@ -3,3 +3,5 @@ aaddedd new lines
 aded net git line test
 aaded some line for test git
 aded mac content 
+added aws vam content for test 
+added aws vmfor test 
