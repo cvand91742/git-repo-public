@@ -1,8 +1,941 @@
-# need to find git configuration file in mac local.
-aaddedd new lines 
-aded net git line test
-aaded some line for test git
-aded mac content 
-added aws vam content for test 
-added aws vmfor test 
-branch test 
+git commnand 
+
+brew install git
+pwd 
+sudo port install git
+sudo port install git
+brew install git-gui
+pwd 
+git ---versio 
+git verion 
+git --version 
+sudo su 
+xcode-select --install.
+ brew install wget
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+terraform --version 
+whereis httpd 
+cd /usr/sbin/httpd
+ls
+cd 8309971388
+nslookup
+ipconfig /all
+ipconfig getifaddr en1
+ipconfig getifaddr en0
+ipconfig /all
+ipconfig 
+ifcount
+ipconfig ifcount
+terraform --vrsion
+brew tap hashicorp/tap\nbrew install hashicorp/tap/terraform
+brew tap hashicorp/tap
+sudo su 
+lll
+ll
+ls
+pwd
+ls -a
+cd Desktop 
+ll
+ls
+cd kalyani
+ls
+ll
+yum install ll
+zsh install ll
+ll
+ls
+echo $0
+apt update 
+clear 
+pwd 
+ll
+ls 
+cd Desktop
+ll
+ls
+cd nous
+ls 
+ssh -t 172.26.58.63
+ssh-keygen
+ll
+cat ssh-key.pub
+cd /Users/gundrathishivanandhagoud/.ssh/id_rsa
+cd /Users/gundrathishivanandhagoud/
+ls
+cat sg.nous
+cat sg.nous
+git pull https://github.com/cvand91742/devops-harsha-123.git
+git --version 
+git .
+git checkout main 
+git 
+git .
+ll
+ls
+git clone https://github.com/cvand91742/shivajenkins-prc.git
+ls
+cd shivajenkins-prc
+ll
+l
+ls 
+cd ..
+l
+ls
+rm test.txt
+ls
+pwd
+ll
+ld
+ls
+git add .
+git add .
+git push .
+git frech cvand91742/maven-shiva-practice
+git fech cvand91742/maven-shiva-practice
+java 
+systemctl install java 
+yum install java
+apt install java
+java -version
+git push -m "java code" 
+git branch 
+git branch .
+git branch 
+git push -m "java code" 
+git pull https://github.com/cvand91742/maven-shiva-practice.git
+git add .
+git checkout .
+git push .
+git push 
+git remote add maven-shiva-practice https://github.com/cvand91742/maven-shiva-practice.git
+git push .
+git push 
+https://github.com/cvand91742/maven-shiva-practice.git
+git push --set-upstream maven-shiva-practice main
+git push --set-upstream maven-shiva-practice main
+git add .
+git update 
+git pull 
+git push --set-upstream maven-shiva-practice main
+git commit -m "first commit"
+git add README.md
+git branch -M main
+ls
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git push -u origin main
+git push -u origin main
+ls
+tree
+ls
+ls -l 
+cd shivajenkins-prc
+ls
+cd ..
+rm -rf shivajenkins-prc
+ls 
+git add .
+git push -u origin main
+git push -u origin main
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git add .
+git push -u origin main
+git commit -m "removejenkins folder"
+git branch -M main
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git push -u origin main
+lls 
+ls -la
+cd maven
+ls 
+cd ..
+cat java.app
+cd java.app
+ls 
+cdt myfirstprogram
+cat myfirstprogram
+git add .
+git commit -m "addded line"
+ls
+cd ..
+cd ..
+ls
+cd devops-shiva
+ls
+git .
+git add .
+git commit -m "addded line"
+git commit -m "addded line"
+git push -u origin main
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git branch -M main
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git push -u orgin main
+git push -u origin main
+histroy
+git push -u origin main
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git push -u origin main
+git remote add origin https://github.com/cvand91742/maven-shiva-practice.git
+git branch -M main
+git push -u origin main
+git add .
+git add 
+git add .
+git commit -m "addedlin in code"
+git add .
+git commit -m "addedlin in code"
+git commit -m "addedlin in code"
+git push -u origin main
+ls 
+cd ..
+ls 
+cd devops-shiva
+ls 
+mkdir shiva-sir-devops-code-repo
+ls
+cd shiva-sir-devops-code-repo
+ls
+git pull https://github.com/devopswithcloud/devops-repo.git
+ll
+ls
+cd ..
+git pull https://github.com/devopswithcloud/devops-repo.git
+git remote add origin https://github.com/devopswithcloud/devops-repo.git 
+git pull https://github.com/devopswithcloud/devops-repo.git
+git branch 
+ls
+ls 
+javac helllowworls.java
+javac java.java
+ls 
+ls -l 
+cd java.app
+javac java.java
+javac java.java
+java -version 
+javac java.java
+javac java.java
+pwd
+cd ..
+ls 
+java -version
+git --version
+lll
+ls 
+cd d
+cd Desktop
+ls 
+cd devops-shiva
+ls 
+cd java.app
+javac java.java
+javac java.java
+java -version
+cd /home
+ls
+ll
+ls 
+ls -l 
+pwd 
+cd /home/desktop 
+clear 
+pwd 
+mkdir git-prac
+ls -l 
+cd git-prac
+git clone 
+git clone https://github.com/cvand91742/git-shiva-public.git
+ls -l 
+git branch 
+git checkout --help
+git --version 
+pwd 
+ll
+ls -l 
+cd Desktop
+ls -l 
+cd devops-shiva
+ls -l 
+cd git-prac
+ls -l 
+git statu 
+git status
+git commit 
+git status
+pwd 
+ls -l 
+git init
+ls -ls
+cd git-shiva-public
+git init
+git status 
+git add .
+ls -l 
+cd ..
+ls -l 
+rm file2.txt
+ls -ls
+cd git-shiva-public
+ls -l 
+clear
+pwd 
+ls - 
+ls -l 
+cd git-prac
+ls -l 
+git clone https://github.com/cvand91742/git-shiva-public.git
+cd ..
+ls -l 
+ls -l 
+cd  git-prac
+ls -l 
+pwd
+vi file2.txt
+ls -l 
+clear
+git status 
+git add .
+git commit -a
+git init
+git --version 
+ped 
+pwd 
+pwd 
+lll
+ls 
+ll
+ls -l 
+ll
+ls -l 
+pwd 
+cd Desktop/linux 
+ll
+ls -l 
+ls
+ls -l 
+ll
+ls
+mkdir linux-test 
+ll
+cd linux-test
+ll
+ll
+ls 
+ip 
+ip address
+ip addr
+ip conf
+IP config
+cidr 
+ifconfig
+ifconfig
+aws
+pwd 
+cd ..
+ll
+pwd 
+cd ..
+pwd 
+ls -l 
+ll
+cd harsha-aws/aws-learn
+ll
+ls -l 
+ssh -i "aws.pem" ec2-user@172.31.28.26
+ssh -i "aws.pem" ec2-user@
+ls -l 
+ssh -i "aws.pem" ec2-user@ip-172-31-28-26.eu-north-1.compute.internal
+chmod 400 aws.pem
+ssh -i "aws.pem" ec2-user@ip-172-31-28-26.eu-north-1.compute.internal
+history 
+echo 
+echo Hi 
+cho udhvob
+echo iudvbipv
+echo $date 
+echo $env 
+env 
+ls -l 
+ls 
+ll
+ll = ls -l 
+export ll = "ls -l"
+export ll="ls -l"
+ll
+echo $ll
+alies ll="ls -l"
+alias ll="ls -l "
+alias ll="ls -l"
+ll
+ll
+env 
+l
+ll
+export l="ls -l"
+env 
+l
+alias l="ls -l"
+l
+docker ps 
+less 
+echo ls coc
+echo "ls coc>
+echo "ls coc"
+ls 
+ll 
+less aws.pem
+more aws.pem
+nano testfile
+cat testfile
+less testfile
+more testfile
+less testfile
+clear
+uname 
+ll
+uname 
+uname -a
+tree
+history
+pwd 
+ls-l 
+ls 
+cd Desktop
+ll
+ls-
+ls -l 
+cd harsha-aws
+ll
+ls
+cd aws-learn
+ll
+ls
+cat testfile
+ls -l 
+history 
+history 
+ls -l 
+cd Desktop/
+ll
+ls -l 
+cd harsha-aws/aws-learn
+history
+ll
+clear 
+clear
+ll
+;s -l 
+ls 0l 
+ls -l 
+cat aws.pem
+clear 
+alias ="ll -ll"
+alias ="ll -ls"
+alias="ll -ls"
+ls 
+ll
+alias="ls ll"
+ll
+export="ls ll"
+ll
+pwd 
+ll
+ls 
+cd Desktop
+ll
+ls 
+cd harsha-aws/aws-learn
+ls -l 
+cd ~
+ll
+ls 
+cd Desktop/harsha-aws/aws-learn
+ls -l 
+clear 
+sudo su 
+ll
+ls -l 
+cd pci
+cd 00
+cd proc
+lspci
+pwd 
+ll
+ls =l 
+ls -l 
+alias ll="ls -l "
+ll
+cd git
+ll
+ll
+vi file2.txt 
+ll
+ll
+ls -l 
+git-test1.txt
+ll
+touch git-test1.txt
+ll
+git status 
+git init
+git ststus 
+git stastus 
+git status 
+ls -l 
+ls -ls
+ls -la
+clear 
+llll
+ls -l 
+git status 
+ ll
+touch file3.txt
+ll
+git status 
+git status 
+git add file2.txt
+git status 
+git commit -m "file2.txt trcking"
+git branch 
+git commit -m "file2.txt trcking"
+git status 
+git add file3.txt
+git status 
+ll
+git status 
+ git ls-file 
+ git ls-files
+git show 
+git ls-files 
+git show 
+ git log 
+git add .
+git status 
+git commit -m "all files commit"
+git log 
+git status 
+git log
+git stsus 
+git status 
+git status
+git add .
+ll
+git log 
+git show 
+git add .
+git commit -m "11:24commit"
+git log 
+git add .
+gir status 
+git status 
+git commit -m "file name chaged "
+git log 
+ll
+ls -l 
+ls -l 
+ls -la
+ll
+alias ll -a="ls -la"
+ll
+ll -la 
+ll
+git-bash 
+git 
+ll
+touch helloworld.java
+vi helloworld.java
+ll
+ll
+cat helloworld.java
+java --version 
+java --v 
+java 
+java -version
+git statu 
+git add .
+git status 
+git log 
+git commit -m "java adde"
+git status 
+git log 
+java -version 
+ls -l 
+java helloworld.java
+java ./helloworld.java
+java -version 
+java -version 
+ll
+javac helloworld.java
+ll
+git statsu 
+git status 
+git add .
+git comit -m "javacode"
+git commit -m "javacode"
+git status 
+ll
+ll
+git add .
+git commit -m "javacode"
+gitlog -l
+git log -oneline
+git show 
+git cinfig --global user.email "shiva@gmail.com
+git cinfig --global user.email "shiva@gmail.com"
+git config --global user.email "shiva@gmail.com"
+git config --global user.name "shiva"
+ls -la 
+cd .git
+ll
+cd config
+cat config
+cd info
+ll
+cat exclude
+cd ..
+ll
+cd .
+c ..
+cd ..
+ll
+ls -la
+cat .gitignore
+ll
+ll
+ll
+ls -l 
+git remote add origin https://github.com/cvand91742/git-repo-public.git
+git branch -M main
+git push -u origin main
+ll 
+ls -l 
+git remote
+git remote -v
+git log
+git push orgin master
+git push
+ll
+git status 
+git add . 
+git commit -m "added test line"
+git show 
+git push 
+git status 
+git add . 
+git commit -m "added test line"
+git status 
+git push 
+ll
+git remote -v
+git remote 
+ll
+ls -l 
+ll
+git push 
+ll
+mkdir shiva-webtest
+ll
+cd shiva-webtest
+ll
+git clone https://github.com/devopswithcloud/static-website.git
+ll
+ cd ..
+ll
+git status 
+git add .
+cd shiva-webtest
+git add .
+cd ..
+git add .
+git status 
+git commit -m "shiva-repo"
+git push 
+git pull
+git pull
+ll
+cd shiva-webtest
+ll
+cd static-website
+ll
+ls -la
+rm -rf .git
+ls -la
+git status 
+cd ..
+ll
+cd ..
+ll
+git push
+la -la 
+ls -la 
+ll
+cd shiva-webtest
+ll
+ll
+cd static-website
+git init
+ls -la 
+git add .
+git status 
+git commit -m "aded shivacode"
+git remote -v
+git remote add orgine https://github.com/cvand91742/shiva-codetest.git
+git push 
+git branch -M main 
+https://github.com/cvand91742/shiva-codetest.git
+git push --set-upstream orgine main
+git push -u origin main
+git push 
+git push --set-upstream orgine main
+ll
+ls -l 
+cd ..
+ll
+cd ..
+ll
+git status 
+git add .
+git status 
+git commit -m "c4"
+git remote -v
+git push 
+git pull
+git pull https://github.com/cvand91742/git-repo-public.git
+git config --global 
+sl -la 
+ls -la 
+git init 
+git remote -v
+git pull 
+git config 
+git config --global cvand91742
+git config user 
+git remote add origin https://github.com/cvand91742/git-repo-public.git
+git branch -M main
+git push -u origin main
+git pull 
+git pull git@github.com:cvand91742/git-repo-public.git
+git pull https://github.com/cvand91742/git-repo-public.git
+ll
+rm -rf shiva-webtest
+ll
+ls -ls 
+ls -la 
+git pull 
+git push 
+git remote -v
+git remote set-url origin git@github.com:cvand91742/git-repo-public.git
+git remote -v
+ssh-keygen -t ed25519 -C "cvand91742@gmail.com"\n
+ll
+cat /Users/gundrathishivanandhagoud/.ssh/id_ed25519
+cat /Users/gundrathishivanandhagoud/.ssh/id_ed25519.pub
+eval "$(ssh-agent -s)"
+ssh-add -K ~/.ssh/id_ed25519\n
+pbcopy < ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+git remote -v 
+git pull 
+ll
+git remote set-url origin git@github.com:cvand91742/git-repo-public.git
+pit pull 
+git pull
+git pull 
+git pull git@github.com:cvand91742/git-repo-public.git
+ll
+pwd 
+ls -la
+git fetch origin\n
+git fetch origin
+git merge origin/main
+git add .
+git commit 
+git commit -m "c9"
+git push origin main
+ll
+cat >> file1.txt
+git status 
+git add .
+git status 
+git commit -m "mac changes"
+git pull 
+git push 
+git status 
+git pull 
+ll
+cat file1.txt
+clear 
+ll
+git remote 
+git remote -v
+ll
+git log --oneline 
+ll
+git checkout master 
+git checkout feture 
+git checkout feature 
+git remote -v
+git push 
+ll
+git checkout feasture 
+git checkout feature
+git checkout main 
+git checkout feature 
+git push --set-upstream origin master
+git push --set-upstream origin main
+git checkout master 
+git push --set-upstream origin master 
+git pull git@github.com:cvand91742/git-repo-public.git
+git push --set-upstream origin master 
+git push 
+ll
+cat >> file1.txt
+git add . 
+git ststus 
+git status 
+git commit -m "branch test"
+git push 
+git checkout master 
+git branch 
+git branch -r
+git checkout main 
+git checkout -b main origin/main
+git checkout -b master origin/main
+git branck 
+git branch 
+git checkout main
+git branch 
+git checkout master
+git branch 
+git fetch origin
+git branch 
+git push 
+history 
+git branch 
+git push 
+git pull 
+cat  >>fil1
+git add .
+ll
+git status 
+git commit -m "branch chage  test "
+git push 
+git checkot main 
+git checkout main 
+git push 
+git pull 
+git branch 
+git checkout master 
+git branch 
+git checkout -b hotfix 
+git branch 
+git stsatus 
+git status 
+touch hotfix.txt 
+git add 
+git add .
+git status 
+git commit -m "hotfix"
+git log 
+git branch 
+git branch 
+git status 
+git log --onleine 
+git log --oneline 
+git push 
+git push --set-upstream origin hotfix
+history
+hostory -20
+hostory -n 20
+history -n 20
+clear 
+git remote -v
+git branch 
+git pull
+git branch -r
+git branch -a
+git push origin --delete testbranch 
+git branch -a
+git push origin --delete feature 
+git branch -a
+git checkout -b testbranch 
+git branch -a
+git push 
+git push --set-upstream origin testbranch
+git push origin --delete testbranch 
+git branch 
+git checkout main 
+git pull 
+git add . 
+git commit -m "9"
+git push 
+git branch 
+git branch -d testbanch 
+git branch -d testbranch 
+git branch 
+clear 
+ll
+rm -rf hotfix.txt test-file fil1
+ll
+git status
+git add .
+git commit -m "deleted 
+git commit -m "deleted"
+git pull
+git  branch 
+git push 
+git branch -r
+git branch -a
+git check out master 
+git checkout master 
+git pull 
+git add .
+git status 
+git push -b master 
+git branch 
+git push 
+git push --set -upstrem origine master 
+git push --set-upstrem origine master 
+git push --set-upstrem origine master 
+history 
+history -n 
+history -n 100
+git push --set-upstream origin master
+git branch 
+ll
+git push --set-upstream origin hotfix
+git branch 
+git checkout hotfix
+git branch 
+git pull
+git push 
+git checkout main 
+git push --set-upstream origin hotfix
+git pull 
+git branch 
+git checkout hotfix 
+rm rf ./*
+ll
+git push 
+git branch 
+git pull 
+git add .
+git status
+git commit -m "deleted"
+git push 
+ll
+git push origin --delete hotfix 
+git branch -r
+git branch -a
+git  -delete hotfix 
+git branch -d hotfix 
+git branch  -d hotfix 
+git branch  -D hotfix 
+git branch -a
+git checkout main
+git branch  -D hotfix 
+git branch -a
+
+
