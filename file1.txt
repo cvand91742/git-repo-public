@@ -1,2 +1,4 @@
 # need to find git configuration file in mac local.
 aaddedd new lines 
+aded net git line test
+aaded some line for test git
