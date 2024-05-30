@@ -939,3 +939,27 @@ git branch  -D hotfix
 git branch -a
 
 
+############################ git connection commands 
+mkdir git-mergeconflicts
+  262  ll
+  263  cd git-mergeconflicts/
+  264  ls ~/.ssh/
+  265  ll ~/.ssh/
+  266  clear 
+  267  git init 
+  268  ls -l 
+  269  ls -la 
+  270  vi index.html
+  271  git status 
+  272  git remote add origin git@github.com:cvand91742/mergeconflicts.git
+  273  git remove -v
+  274  git remote -v 
+  275  git status 
+  276  gir addd .
+  277  git commit -m "c1"
+  278  gir add .
+  279  git add .
+  280  git commit -m "c1"
+  281  git status 
+  282  git push 
+  283  git push --set-upstream origin master
