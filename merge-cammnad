@@ -1,0 +1,461 @@
+  1  git 
+    2  clear 
+    3  l
+    4  ll
+    5  mkdir git 
+    6  ll
+    7  cd git/
+    8  ll
+    9  git init
+   10  git add README.md
+   11  ll
+   12  ls -l 
+   13  ls -la
+   14  git commit -m "first commit"
+   15  touch text.txt
+   16  git add .
+   17  ll
+   18  git pull https://github.com/cvand91742/client.git
+   19  https://github.com/cvand91742/client.git
+   20  git pull https://github.com/cvand91742/client.git
+   21  ll
+   22  git status -m "c1"
+   23  git status 
+   24  git commit -m "c1"
+   25  git config --global --edit
+   26  git commit --amend --reset-author
+   27  git commit -m "c1"
+   28  git pull 
+   29  git pull https://github.com/cvand91742/client.git
+   30  git remote -v
+   31  git branch -M main
+   32  git remote add origin https://github.com/cvand91742/client.git
+   33  git push -u origin main
+   34  pwd 
+   35  ll
+   36  cd ..
+   37  ll
+   38  rm -rf git/
+   39  ll
+   40  mkdir git 
+   41  ll
+   42  cd git/
+   43  git init
+   44  git pull https://github.com/cvand91742d1/test-integration.git
+   45  ll
+   46  vi index.html 
+   47  ll
+   48  git add .
+   49  git status 
+   50  git remote -v 
+   51  git remote add origin https://github.com/cvand91742d1/test-integration.git
+   52  git remote -v 
+   53  git branch -M main
+   54  git push -u origin main
+   55  git pull 
+   56  ll
+   57  nano index.html 
+   58  ll
+   59  git status 
+   60  git add . 
+   61  git status 
+   62  git remote -v
+   63  cd /var/www/
+   64  cd /var/
+   65  ll
+   66  cd www
+   67  mkdir www
+   68  ll
+   69  cd www/
+   70  mkdir html
+   71  cp /home/ubuntu/git/index.html .
+   72  ll
+   73  mv index.html ./html/
+   74  ll
+   75  cd html/
+   76  ll
+   77  pwd 
+   78  ll
+   79  rm -rf git/
+   80  mkdir git 
+   81  ll
+   82  cd git/
+   83  ll
+   84  ls -la 
+   85  nano index.html
+   86  ll
+   87  git add .
+   88  git remote add origin https://github.com/cvand91742/client.git
+   89  git init
+   90  git remote add origin https://github.com/cvand91742/client.git
+   91  git push -u origin main
+   92  git add .
+   93  git status 
+   94  git commit -m "c1"
+   95  git push -u origin main
+   96  git remote -v
+   97  git remote add origin git@github.com:cvand91742/test.git
+   98  cd ..
+   99  pwd 
+  100  ll
+  101  cd ubuntu/
+  102  ll
+  103  la -la git/
+  104  mkdir git2 : cd git2 : 
+  105  ll
+  106  pwd 
+  107  cd git
+  108  ll
+  109  cp ./index.html /home/ubuntu/git2/
+  110  cd /home/ubuntu/git2/
+  111  ll
+  112  git remote -v
+  113  git pull git@github.com:cvand91742d1/test-integration.git
+  114  git init 
+  115  git pull git@github.com:cvand91742d1/test-integration.git
+  116  ll
+  117  git add .
+  118  git status
+  119  git push 
+  120  git remote -v
+  121  git branch -a
+  122  git remote add origine git@github.com:cvand91742d1/test-integration.git
+  123  git add .
+  124  git commit -m "c12335"
+  125  git push 
+  126  git push --set-upstream origine master
+  127  ll
+  128  git remote -v
+  129  git pull 
+  130  git push 
+  131  git push --set-upstream origine master
+  132  cd ./..
+  133  lll
+  134  ll
+  135  mkdir git*
+  136  rmdir -rm git*
+  137  ll
+  138  rm -rf git*
+  139  ll
+  140  mkdir git
+  141  ll
+  142  cd git/
+  143  ll
+  144  git init 
+  145  cd ..
+  146  ll
+  147  rm -rf git/
+  148  mkdir git
+  149  cd git/
+  150  ll
+  151  git pull git@github.com:cvand91742/test.git
+  152  git init 
+  153  git pull git@github.com:cvand91742/test.git
+  154  ssh-keygen -t ed25519 -C "cvand91742@gmail.com"
+  155  eval "$(ssh-agent -s)"
+  156  ssh-add ~/.ssh/id_ed25519
+  157  cat ~/.ssh/id_ed25519.pub
+  158  ssh -T git@github.com
+  159  git pull git@github.com:cvand91742/test.git
+  160  git remote add origin git@github.com:cvand91742/test.git
+  161  ll
+  162  git push -u origin main
+  163  vi index.html
+  164  ll
+  165  git add .
+  166  git status 
+  167  git commit -m "comit1"
+  168  git push -u origin main
+  169  git push 
+  170  git push --set-upstream origin master
+  171  git remote -v
+  172  git push 
+  173  git status 
+  174  git branch -a
+  175  git branch -b html
+  176  git branch -b hotfix
+  177  git checkout  -b hotfix
+  178  git branch -v 
+  179  git branch -a
+  180  git push 
+  181  git push --set-upstream origin hotfix
+  182  ll
+  183  git push --set-upstream origin hotfix
+  184  ll
+  185  rm -rf index.html 
+  186  vi index.html 
+  187  git status 
+  188  git add 
+  189  git add .
+  190  git status 
+  191  git commit -m "commit3 "
+  192  git push 
+  193  sudo rm -rf /var/www/html
+  194  sudo -i 
+  195  history 
+  196  156  ssh-add ~/.ssh/id_ed25519
+  197  cd ~/.ssh/
+  198  ll
+  199  cat id_ed25519
+  200  cat id_ed25519.pub 
+  201  git push 
+  202  cd /home/
+  203  ll
+  204  cd ubuntu/git/
+  205  ll
+  206  pit push 
+  207  git push 
+  208  ll
+  209  todat ...............................
+  210  ll
+  211  cd git/
+  212  ll
+  213  cat index.html 
+  214  git pull
+  215  git branch -a
+  216  git push 
+  217  cd ..
+  218  ll
+  219  rm -rf git/
+  220  ll
+  221  rm -rf cd/
+  222  ll
+  223  mkdir git
+  224  ll
+  225  cd git/
+  226  git init 
+  227  ll
+  228  git clone git@github.com:cvand91742/git-repo-public.git
+  229  ll
+  230  git branch 
+  231  git branch -v
+  232  git push 
+  233  git remote add origin git@github.com:cvand91742/git-repo-public.git
+  234  git push 
+  235  git push --set-upstream origin master
+  236  git push --set-upstream origin main 
+  237  git commit -m "first commit"
+  238  git add .
+  239  git status 
+  240  git commit -m "first commit"
+  241  git push 
+  242  git push --set-upstream origin master
+  243  git branch 
+  244  git checkout main 
+  245  git pull https://github.com/cvand91742/git-repo-public.git
+  246  git branch -a
+  247  git branch -v
+  248  git push -u origin main
+  249  git branch -M main
+  250  git push -u origin main
+  251  git pull
+  252  git pull https://github.com/cvand91742/git-repo-public.git
+  253  git push -u origin main
+  254  git branch -M main
+  255  git push -u origin main
+  256  git pull https://github.com/cvand91742/git-repo-public.git
+  257  cd ll
+  258  cd ..
+  259  ll
+  260  rm -rf git/
+  261  mkdir git-mergeconflicts
+  262  ll
+  263  cd git-mergeconflicts/
+  264  ls ~/.ssh/
+  265  ll ~/.ssh/
+  266  clear 
+  267  git init 
+  268  ls -l 
+  269  ls -la 
+  270  vi index.html
+  271  git status 
+  272  git remote add origin git@github.com:cvand91742/mergeconflicts.git
+  273  git remove -v
+  274  git remote -v 
+  275  git status 
+  276  gir addd .
+  277  git commit -m "c1"
+  278  gir add .
+  279  git add .
+  280  git commit -m "c1"
+  281  git status 
+  282  git push 
+  283  git push --set-upstream origin master
+  284  histiry 
+  285  history 
+  286  ll
+  287  git remote -v 
+  288  git branch -v
+  289  ll
+  290  vi index.html 
+  291  cat index.html 
+  292  nano index.html 
+  293  git status 
+  294  git add .
+  295  git commit -m "c2"
+  296  git push 
+  297  git log --oneline 
+  298  ls 
+  299  git status 
+  300  git pull 
+  301  git status 
+  302  git pull
+  303  git clone git@github.com:cvand91742/mergeconflicts.git
+  304  ll
+  305  ls -l mergeconflicts/
+  306  cd mergeconflicts/
+  307  lll
+  308  ll
+  309  cat index.html 
+  310  git push 
+  311  ll
+  312  cd git-mergeconflicts/
+  313  ll
+  314  cd mergeconflicts/
+  315  ll
+  316  git remote -v 
+  317  git pull
+  318  ll
+  319  cd git-mergeconflicts/
+  320  ll
+  321  cd mergeconflicts/
+  322  ll 
+  323  cd git-mergeconflicts/
+  324  ll
+  325  cd mergeconflicts/
+  326  lll
+  327  ll
+  328  git remote -v
+  329  git pull
+  330  history 
+  331  vi cammands.txt
+  332  ll
+  333  nano cammands.txt
+  334  git add .
+  335  git statsu 
+  336  git commit -m "camnds file"
+  337  git push 
+  338  git log --oneline
+  339  ll
+  340  mkdir git-sqash
+  341  cd git-
+  342  cd git-sqash/
+  343  ll
+  344  git init 
+  345  git clone git@github.com:cvand91742/squashonly.git
+  346  ll
+  347  cd squashonly/
+  348  ll
+  349  vi courc.txt
+  350  ll
+  351  git add .
+  352  git commit -m "c1"
+  353  git log --onleine 
+  354  vi courc.txt 
+  355  cat courc.txt 
+  356  vi courc.txt 
+  357  git add . 
+  358  git coomit -m "test"
+  359  vi courc.txt 
+  360  git add .
+  361  git coomit -m "tmaven"
+  362  git log --online
+  363  git log --oneline
+  364  cat courc.txt 
+  365  gitlog --oneline
+  366  git log --oneline
+  367  vi courc.txt 
+  368  git add .
+  369  git commit -m "c2"
+  370  vi courc.txt 
+  371  git add .
+  372  git commit -m "c2"
+  373  git commit -m "c3"
+  374  git log --oneline
+  375  git rebase -i HEAD~3
+  376  git rebase -i HEAD~2
+  377  git rebase -i HEAD~3
+  378  git rebase -i HEAD~2
+  379  git commit -m "c4"
+  380  git pull
+  381  git push
+  382  git push -u origin main
+  383  git log --oneline
+  384  git branch -v
+  385  git branch -a
+  386  git pull
+  387  git pull git@github.com:cvand91742/squashonly.git
+  388  git branch -a
+  389  git branch 
+  390  git checkout feature
+  391  git branch 
+  392  ll
+  393  ls git remote git-sqash/
+  394  cd git--s
+  395  cd git-sqash/
+  396  ll
+  397  cd squashonly/
+  398  ll
+  399  git remote -v
+  400  merge 
+  401  mkdir mergecommit 
+  402  history 
+  403  ll
+  404  cd mergecommit/
+  405  ls -la 
+  406  git init 
+  407  git branch  -a
+  408  vim 
+  409  ll
+  410  vim master.txt
+  411  ll
+  412  git add .
+  413  git branch -a
+  414  git status 
+  415  git commit -m "m1"
+  416  git branch -a
+  417  git log --oneline 
+  418  ll
+  419  vi master.txt 
+  420  cat master.txt 
+  421  git add .
+  422  git commit -m "2"
+  423  git log --oneline 
+  424  vi master.txt 
+  425  git add .
+  426  git commit -m m32"
+  427  git commit -m 'm3"
+  428  git commit -m "m3"
+  429  ll
+  430  git log --oneline 
+  431  ll
+  432  git checkout -b feature 
+  433  git branch -v
+  434  git branch -a
+  435  vi frature.txt
+  436  git add .
+  437  git status 
+  438  git commit -m "f1"
+  439  git log --oneline 
+  440  vi frature.txt 
+  441  git add .
+  442  git commit -m "f2"
+  443  git log --oneline 
+  444  git checkout master
+  445  git branch 
+  446  ll
+  447  git log --oneline 
+  448  vi master.txt 
+  449  git ad .
+  450  git add .
+  451  git commit -m "m4"
+  452  git log --oneline 
+  453  git checkout feature 
+  454  git log --oneline 
+  455  git checkout master
+  456  git log --oneline 
+  457  git merge feature 
+  458  ls 
+  459  git branch 
+  460  git log --oneline 
+  461  history  
